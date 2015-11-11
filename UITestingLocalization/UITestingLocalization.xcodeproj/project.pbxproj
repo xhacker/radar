@@ -14,6 +14,7 @@
 		1A97C5A01BEAC36100902556 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A97C59E1BEAC36100902556 /* LaunchScreen.storyboard */; };
 		1A97C5AB1BEAC36200902556 /* UITestingLocalizationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C5AA1BEAC36200902556 /* UITestingLocalizationUITests.swift */; };
 		1A97C5B71BEAC55A00902556 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1A97C5B91BEAC55A00902556 /* Localizable.strings */; };
+		1AE08A9B1BF2DC83001AD527 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1A97C5B91BEAC55A00902556 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -183,6 +184,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A97C5A01BEAC36100902556 /* LaunchScreen.storyboard in Resources */,
+				1AE08A9B1BF2DC83001AD527 /* Localizable.strings in Resources */,
 				1A97C59D1BEAC36100902556 /* Assets.xcassets in Resources */,
 				1A97C59B1BEAC36100902556 /* Main.storyboard in Resources */,
 			);
@@ -403,6 +405,7 @@
 				1A97C5B11BEAC36200902556 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1A97C5B21BEAC36200902556 /* Build configuration list for PBXNativeTarget "UITestingLocalizationUITests" */ = {
 			isa = XCConfigurationList;
@@ -411,6 +414,7 @@
 				1A97C5B41BEAC36200902556 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
